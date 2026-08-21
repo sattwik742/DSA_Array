@@ -1,13 +1,6 @@
 # 🚀 Interactive DSA Array Mastery Tracker
 
 Welcome to the **Interactive Array Mastery Roadmap**! This to-do list is designed to take you from beginner to advanced in Array manipulation for Data Structures and Algorithms (DSA) interviews.
-
-> **Tip:** If you are using this in a GitHub repository, you can click the checkboxes directly to save your progress!
-
-## ⭐ Preparation Strategy
-* **Recommended Progression:** 20 Easy → 30 Medium → 10 Hard.
-* **Focus on Patterns:** Don't just solve; identify the core techniques (Sliding Window, Two Pointers, Prefix Sum, Binary Search, Monotonic Stack).
-
 ---
 
 ### 🟢 Level 1 — Array Fundamentals
