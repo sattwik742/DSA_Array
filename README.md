@@ -1,6 +1,6 @@
 # 🚀 Interactive DSA Array Mastery Tracker
 
-Welcome to the **Interactive Array Mastery Roadmap**! This to-do list is designed to take you from beginner to advanced in Array manipulation for Data Structures and Algorithms (DSA) interviews.
+## Welcome to the **Interactive Array Mastery Roadmap**! This to-do list is designed to take you from beginner to advanced in Array manipulation for Data Structures and Algorithms (DSA) interviews.
 ---
 
 ### 🟢 Level 1 — Array Fundamentals
